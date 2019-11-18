@@ -35,3 +35,5 @@
 	postBuffer = 2097152000
 [http]
 	postBuffer = 2097152000
+[credential]
+	helper = osxkeychain

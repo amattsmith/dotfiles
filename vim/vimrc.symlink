@@ -1,6 +1,8 @@
 execute pathogen#infect()
 syntax on
 
+set backspace=indent,eol,start
+
 " Wrap gitcommit file types at the appropriate length
 filetype indent plugin on
 syntax enable
