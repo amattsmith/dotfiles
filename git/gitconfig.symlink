@@ -45,4 +45,5 @@
 [user]
 	name = Matt Smith
 	email = matt@smith.codes
-
+[pull]
+	rebase = true
